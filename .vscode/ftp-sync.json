@@ -1,0 +1,12 @@
+
+{
+    "name": "http://bazarReact.somee.com",
+    "host": "155.254.244.34",
+    "port": 22,
+    "type": "ftp",
+    "username": "kevinramUTL",
+    "password": "Theweeknd12",
+    "path": "http://www.bazarReact.somee.com",
+    "autosave": true,
+    "confirm": true
+}
