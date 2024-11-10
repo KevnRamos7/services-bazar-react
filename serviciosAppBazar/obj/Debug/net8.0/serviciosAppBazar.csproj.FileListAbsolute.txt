@@ -68,3 +68,4 @@
 /Users/kevinramos7/Documents/UTL/WEB/servicios- bazar-examen/serviciosAppBazar/obj/Debug/net8.0/serviciosAppBazar.pdb
 /Users/kevinramos7/Documents/UTL/WEB/servicios- bazar-examen/serviciosAppBazar/obj/Debug/net8.0/serviciosAppBazar.genruntimeconfig.cache
 /Users/kevinramos7/Documents/UTL/WEB/servicios- bazar-examen/serviciosAppBazar/obj/Debug/net8.0/ref/serviciosAppBazar.dll
+/Users/kevinramos7/Documents/UTL/WEB/servicios- bazar-examen/serviciosAppBazar/obj/Debug/net8.0/serviciosAppBazar.sourcelink.json
